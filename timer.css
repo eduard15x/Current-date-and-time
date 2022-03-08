@@ -1,0 +1,39 @@
+* { 
+    box-sizing: border-box;
+    margin: 20px 0px 20px 0px;
+    text-align: center;
+    color: rgb(188, 204, 209);
+}
+
+body {
+    background-color: #363945;
+}
+
+
+.date {
+    margin:auto;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    background-color: #939597;
+    border-radius: 10px;
+}
+
+
+.time {
+    margin: auto;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    background-color: #939597;
+    border-radius: 10px;
+}
+
+p {
+    margin: 30px;
+    font-size: 30px;
+    color: rgb(14, 17, 22);
+    font-weight: bold;
+}
+
+
